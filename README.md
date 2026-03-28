@@ -74,3 +74,5 @@ A website showcasing trekking locations and adventure destinations across Mahara
 
 ## 🧠 Fun Fact  
 ✨ I love turning creative ideas into beautiful websites!
+
+![Snake animation](https://github.com/snehamore23/snehamore23/blob/output/github-contribution-grid-snake.svg)
