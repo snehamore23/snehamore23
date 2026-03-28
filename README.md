@@ -12,8 +12,20 @@ I enjoy learning new technologies, improving my skills and turning ideas into in
 
 ## 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,java,mysql,git,github,vscode,vercel,netlify&perline=7"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" />
 </p>
 
 ---
