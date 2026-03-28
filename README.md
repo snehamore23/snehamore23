@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sneha More</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/snehamore23/snehamore23/main/snehamore23%20(4).gif" width="100%" alt="Banner GIF"/>
+</p>
+
 ---
 
 ## 🙋‍♀️ About Me
