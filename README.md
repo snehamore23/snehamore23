@@ -50,6 +50,14 @@ I enjoy learning new technologies, improving my skills and turning ideas into in
 
 ## 🌟 Featured Projects
 
+### 🔹 Tiny Blog
+A full-stack blogging platform where users can create, edit, publish, and explore blog posts through a simple and responsive interface.
+
+🔗 **Live Demo:** https://tiny-blog-ui-c895.onrender.com/  
+🔗 **GitHub Repo:** https://github.com/snehamore23/tiny-blog  
+⭐ **Tech Used:** React.js, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Axios
+
+
 ### 🔹 Maharashtra Trekking Portal
 A website showcasing trekking locations and adventure destinations across Maharashtra.
 
